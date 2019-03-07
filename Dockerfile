@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM ubuntu
 
 MAINTAINER Jack Dalton <jack@jackdalton.org>
 
