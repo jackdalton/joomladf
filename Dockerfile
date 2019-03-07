@@ -18,3 +18,5 @@ EXPOSE 80
 FROM mysql:5.7
 
 COPY ./sqlcfg.sh /docker-entrypoint-initdb.d
+
+EXPOSE 3306
